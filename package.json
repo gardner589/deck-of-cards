@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/pakastin/deck-of-cards#readme",
   "devDependencies": {
-    "babel": "^5.8.23",
+    "babel": "^6.23.0",
     "chokidar": "^3.2.3",
     "jade": "^1.11.0",
     "nib": "^1.1.0",
